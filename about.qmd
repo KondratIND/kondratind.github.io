@@ -1,0 +1,14 @@
+---
+title: "About"
+about:
+  template: jolla
+  image: docs/images/profile.jpg
+  image-width: 25em
+  image-shape: round
+  links:
+    - text: "GitHub"
+      icon: "images/github.png"
+      href: "https://github.com/KondratIND"
+---
+
+### Практическую работу выполнил студент группы БИСО-02-20 Кондратенко Александр
